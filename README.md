@@ -4,7 +4,7 @@ Hello World! I am David 👋
 
 :rocket::  Sobre mim: 
 
-- :mortar_board:: Estudante de ciência da computação
+- :mortar_board: Estudante de ciência da computação
 
 -  :punch:: Em busca de novas oportunidades de aprendizado
 
