@@ -2,7 +2,7 @@
 Hello World! I am David 👋
 </H1>
 
-:rocket:<h6>:Sobre mim:</h6> 
+:rocket: Sobre mim:
 
 - :mortar_board: Estudante de ciência da computação
 
