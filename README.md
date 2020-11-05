@@ -2,7 +2,7 @@
 Hello World! I am David 👋
 </H1>
 
-###:tw-1f680:  Sobre mim: 
+:rocket::  Sobre mim: 
 
 - :tw-1f393: Estudante de ciência da computação
 
