@@ -4,9 +4,9 @@ Hello World! I am David 👋
 
 :rocket::  Sobre mim: 
 
-- :tw-1f393: Estudante de ciência da computação
+- :mortar_board:: Estudante de ciência da computação
 
--  :tw-1f44a: Em busca de novas oportunidades de aprendizado
+-  :punch:: Em busca de novas oportunidades de aprendizado
 
 - 💻 Amo programação
 
