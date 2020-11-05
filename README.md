@@ -10,7 +10,7 @@ Hello World! I am David 👋
 
 - 💻 Amo programação
 
-- :tw-1f525: Foco e dedicação
+- :fire:: Foco e dedicação
 
 
 
