@@ -4,10 +4,8 @@ Hello World! I am David 👋
 
 :rocket:<b>Sobre mim:</b>
 
+-  👨‍💻 Sou **Desenvolvedor de software** na [META](https://www.meta.com.br/) 
 - :mortar_board: Estudante de ciência da computação
-
--  :punch:: Em busca de novas oportunidades de aprendizado
-
 - 💻 Amo programação
 
 - :fire:: Foco e dedicação
@@ -34,7 +32,7 @@ Hello World! I am David 👋
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-william-0a0638195/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/david-william-0a0638195/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/Davidxy9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/Davidxy9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
