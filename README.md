@@ -2,6 +2,8 @@
 Hello World! I am David 👋
 </H1>
 
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1000" height="150" >
+
 :rocket:<b>Sobre mim:</b>
 
 -  👨‍💻 Sou **Desenvolvedor de software** na [META](https://www.meta.com.br/) 
