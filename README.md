@@ -7,7 +7,7 @@ Hello World! I am David 👋
 :rocket:<b>Sobre mim:</b>
 
 -  👨‍💻 Sou **Desenvolvedor de software** na [META](https://www.meta.com.br/) 
-- :mortar_board: Estudante de ciência da computação
+- :mortar_board: Graduado em ciência da computação
 - 💻 Amo programação
 
 - :fire:: Foco e dedicação
