@@ -6,7 +6,7 @@ Hello World! I am David 👋
 
 :rocket:<b>Sobre mim:</b>
 
--  👨‍💻 Sou **Engenheiro de software** na [ZINK](https://zink.global/) 
+-  👨‍💻 Sou **Engenheiro de software** na [Zink](https://zink.global/) 
 - :mortar_board: Graduado em ciência da computação
 - 💻 Amo programação
 
